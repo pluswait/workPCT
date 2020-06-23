@@ -1,0 +1,63 @@
+#2344.com
+127.0.0.1 bj14.9669.cn
+127.0.0.1 bs14.9669.cn
+127.0.0.1 js.9669.cn
+#com2us
+127.0.0.1 s.com2us.net
+127.0.0.1 push.com2us.net
+#doodlemobile
+127.0.0.1 data.doodlemobile.com
+127.0.0.1 data2.doodlemobile.com
+127.0.0.1 f.doodlemobile.com
+127.0.0.1 m.doodlemobile.com
+#eamobile
+127.0.0.1 cdn.adc.eamobile.com
+#ft games
+127.0.0.1 ads.feelingtouch.com
+#gameloft
+127.0.0.1 imp-mdsp.avazutracking.net
+127.0.0.1 ingameads.gameloft.com
+#gametower
+127.0.0.1 ad.gametower.com.tw
+#rayjump
+127.0.0.1 analytics.rayjump.com
+127.0.0.1 net.rayjump.com
+127.0.0.1 setting.rayjump.com
+#rovio
+127.0.0.1 ads.cdn.rovio.com
+127.0.0.1 rovio-news-app.angrybirdsgame.com
+#tomcat
+127.0.0.1 apps.outfit7.com
+127.0.0.1 apps2.outfit7.com
+127.0.0.1 cdn-gcs.outfit7.com
+127.0.0.1 cdn.outfit7.com
+127.0.0.1 events-api.outfit7.net
+#wostore
+127.0.0.1 appspromote.wostore.cn
+127.0.0.1 secpay.wostore.cn
+127.0.0.1 unilog.wostore.cn
+127.0.0.1 unipaydl.wostore.cn
+127.0.0.1 unipayupg.wostore.cn
+#cmgame
+127.0.0.1 drm.cmgame.com
+127.0.0.1 wap.cmgame.com
+127.0.0.1 sdk.cmgame.com
+127.0.0.1 sdklog.cmgame.com
+127.0.0.1 gmota.g188.net
+#uu.cc
+127.0.0.1 app.uu.cc
+127.0.0.1 dl.uu.cc
+127.0.0.1 game.subway.uu.cc
+127.0.0.1 in1.feed.uu.cc
+127.0.0.1 ledou.dl.uu.cc
+127.0.0.1 in1.secure.uu.cc
+127.0.0.1 sdklog.uu.cc
+127.0.0.1 sdkpay.uu.cc
+127.0.0.1 shiwan.dl.gxpan.cn
+127.0.0.1 va.gxpan.cn
+127.0.0.1 api2.play.cn
+127.0.0.1 open.play.cn
+127.0.0.1 log.vcgame.cn
+127.0.0.1 mcore.vcgame.cn
+127.0.0.1 actsdk.idreamsky.com
+127.0.0.1 v1-feed.idreamsky.com
